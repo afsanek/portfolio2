@@ -1,0 +1,18 @@
+h1 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+p {
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#flex-container {
+  display: flex;
+  flex-direction: row;
+  background-color: orange;
+}
